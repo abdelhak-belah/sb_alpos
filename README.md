@@ -47,7 +47,7 @@ A **Docker-based** backend vulnerability management system designed to improve s
 
 ## 📄 License
 
-> Add your license here (e.g., MIT, Apache 2.0)
+> This project is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
@@ -59,4 +59,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📧 Contact
 
-> Add your contact details or links here (GitHub profile, email, etc.)
+For questions, suggestions, or collaborations, feel free to reach out:
+
+- **Email:** abdelhakbelah@gmail.com  
+- **LinkedIn:** [linkedin.com/in/abdelhak-belah](https://www.linkedin.com/in/abdelhak-belah)  
+- **GitHub:** [github.com/abdelhak-belah](https://github.com/abdelhak-belah)
